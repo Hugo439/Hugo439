@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hugo439
 - 👀 I’m interested in computing
-- 🌱 I’m currently learning second year of DAM
+- 🌱 I have DAM
 - 📫 How to reach me hugolaroca@gmail.com
 
 
