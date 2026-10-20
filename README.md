@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Hugo439
 - 👀 I’m interested in computing
 - 🌱 I have DAM
+- 🌱 I´m pursuing a Master's degree in Product Engineering & AI.
+- 🌱 I´m pursuing a specialization in Big Data & AI.
 - 📫 How to reach me hugolaroca@gmail.com
 
 
